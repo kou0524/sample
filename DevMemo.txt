@@ -21,9 +21,13 @@ https://qiita.com/zaki-yama/items/d05adce9d23d67144fbf
 
 ‚Ü‚Ÿ‚»‚¤‚¢‚¤‚í‚¯‚ÅAŽæˆø‚ðŽn‚ß‚È‚¢‚±‚Æ‚É‚ÍƒvƒƒOƒ‰ƒ€‚àì¬‚Å‚«‚È‚¢‚Ì‚ÅA¡“ú‚Í‚±‚±‚Ü‚ÅB
 
+<<<<<<< HEAD
 git‚ÌƒXƒe[ƒ^ƒX‚ª‚¨‚©‚µ‚©‚Á‚½‚Ì‚Å•ÏX
 
 12/27
 git push‚ÌŽæ‚èÁ‚µ‚Ì‚½‚ß‚ÉA‚¢‚Á‚½‚ñƒRƒ~ƒbƒg
 
 ‚±‚Ìcommit‚ÍŽc‚µ‚½‚¢commit
+=======
+git‚ÌƒXƒe[ƒ^ƒX‚ª‚¨‚©‚µ‚©‚Á‚½‚Ì‚Å•ÏX
+>>>>>>> parent of e416679... pushå–ã‚Šæ¶ˆã—ã®ãŸã‚ã«ã„ã£ãŸã‚“ã‚³ãƒŸãƒƒãƒˆ
