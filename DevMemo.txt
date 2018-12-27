@@ -21,5 +21,9 @@ https://qiita.com/zaki-yama/items/d05adce9d23d67144fbf
 
 まぁそういうわけで、取引を始めないことにはプログラムも作成できないので、今日はここまで。
 
-
 gitのステータスがおかしかったので変更
+
+12/27
+git pushの取り消しのために、いったんコミット
+
+このcommitは残したいcommit
