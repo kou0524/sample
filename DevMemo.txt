@@ -29,3 +29,5 @@ git pushの取り消しのために、いったんコミット
 このcommitは残したいcommit
 
 HEAD使って、pushは取り消すけど、ローカルの変更は残したいので、この一文を加える。
+
+git dry run用
