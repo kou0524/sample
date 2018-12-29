@@ -23,11 +23,5 @@ https://qiita.com/zaki-yama/items/d05adce9d23d67144fbf
 
 gitのステータスがおかしかったので変更
 
-12/27
-git pushの取り消しのために、いったんコミット
-
-このcommitは残したいcommit
-
-変更
-
-git dry run用
+12/30
+全部いったん削除
