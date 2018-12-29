@@ -24,10 +24,4 @@ https://qiita.com/zaki-yama/items/d05adce9d23d67144fbf
 gitのステータスがおかしかったので変更
 
 12/27
-git pushの取り消しのために、いったんコミット
-
-このcommitは残したいcommit
-
-HEAD使って、pushは取り消すけど、ローカルの変更は残したいので、この一文を加える。
-
-git dry run用
+仕事おさめた～
